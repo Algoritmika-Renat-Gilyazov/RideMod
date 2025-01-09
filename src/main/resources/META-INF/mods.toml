@@ -1,0 +1,21 @@
+modLoader="javafml" #mandatory
+loaderVersion="[0, )"
+license="MIT"
+[[mods]] #mandatory
+modId="ride" #mandatory
+version="1.0.0" #mandatory
+displayName="Ride Mod" #mandatory
+description='''Ride on all mobs!'''
+[[dependencies.ride]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[0, )" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ride]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.4, )"
+    ordering="NONE"
+    side="BOTH"
+

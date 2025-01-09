@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: ride
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: ride-1.21.4
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+
